@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Paróquia São Paulo Apóstolo</title>
+<meta name="description" content="Paróquia São Paulo Apóstolo, Sumaré – SP.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<a class="skip" href="#app">Ir para o conteúdo</a>
+<header>
+  <div class="hb">
+    <div class="brasao" aria-hidden="true">✠</div>
+    <div class="hn"><b id="hnome"></b><small id="hdioc"></small></div>
+    <button id="mb" aria-label="Abrir menu" aria-expanded="false">☰</button>
+    <nav id="nv" aria-label="Menu principal"></nav>
+  </div>
+</header>
+<main id="app" tabindex="-1"></main>
+<footer>
+  <div class="wrap">
+    <div class="g3 top" id="ft"></div>
+    <div class="cp">© <span id="yr"></span> <span id="cnome"></span>. Todos os direitos reservados. · <a style="display:inline" href="#privacidade">Aviso de privacidade (LGPD)</a></div>
+  </div>
+</footer>
+<dialog id="lb" aria-label="Fotografia ampliada">
+  <div id="lbc"></div>
+  <p id="lbt" class="c"></p>
+  <p class="c"><button class="btn" onclick="document.getElementById('lb').close()">Fechar</button></p>
+</dialog>
+<script src="js/config.js"></script>
+<script src="js/components.js"></script>
+<script src="js/pages.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

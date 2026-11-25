@@ -1,0 +1,23 @@
+FOTOGRAFIAS DO SITE
+===================
+Coloque aqui as fotos em JPEG. Para trocar uma imagem, salve a nova
+foto com EXATAMENTE o mesmo nome do arquivo (sem mexer no código).
+Enquanto uma foto não existir, o site mostra um espaço reservado.
+
+Arquivo                          Finalidade
+-------------------------------  ------------------------------------
+padroeiro-sao-paulo.jpg          Fotografia de São Paulo Apóstolo
+fachada-matriz.jpg               Fachada da igreja matriz
+interior-matriz.jpg              Interior da igreja
+altar-matriz.jpg                 Altar principal
+missa-matriz.jpg                 Celebração da Santa Missa
+comunidade-sao-francisco.jpg     Comunidade São Francisco de Assis
+comunidade-sao-jose.jpg          Comunidade São José Operário
+comunidade-nossa-senhora.jpg     Comunidade Nossa Senhora das Graças
+paroquia-pastoral.jpg            Atividades pastorais e comunitárias
+padre-paroco.jpg                 Fotografia do pároco
+
+Dica: use fotos de até ~1600 px de largura e ~300 KB para carregar rápido.
+Se a foto nova não aparecer, atualize a página com Ctrl+F5 (cache do navegador).
+Os nomes e as legendas ficam centralizados em js/config.js.
+c:\Users\Emanuelle Zambeli\Downloads\paroquia-pastoral.jpg.jpeg c:\Users\Emanuelle Zambeli\Downloads\padroeiro-sao-paulo.jpg.jpeg c:\Users\Emanuelle Zambeli\Downloads\padre-paroco.jpg.jpeg c:\Users\Emanuelle Zambeli\Downloads\missa-matriz.jpg.jpeg c:\Users\Emanuelle Zambeli\Downloads\interior-matriz.jpg.jpeg c:\Users\Emanuelle Zambeli\Downloads\fachada-matriz.jpg.jpeg c:\Users\Emanuelle Zambeli\Downloads\comunidade-sao-jose.jpg.jpeg c:\Users\Emanuelle Zambeli\Downloads\comunidade-sao-francisco.jpg.jpeg c:\Users\Emanuelle Zambeli\Downloads\comunidade-nossa-senhora.jpg.jpeg c:\Users\Emanuelle Zambeli\Downloads\altar-matriz.jp.jpeg
